@@ -90,5 +90,5 @@ Dúvidas ou sugestões? Entre em contato:
 
 - Autor: **[Edwardes A. Galhardo]**
 - E-mail: [edwardes.galhardo@ifto.edu.br]
-- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/seu-perfil)
+- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/edwards-amaro-0278bb120)
 
